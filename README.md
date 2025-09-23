@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently study in an engineering school (ESIEE Paris)<br>🤝 I’m looking for an apprenticeship<br>🌱 I’m currently learning IA<br>
+# 🤷‍♂️ About Me:
+🔭 I’m currently I am in my second year of engineering studies in the data and AI program at ESIEE Paris<br>🤝 I’m looking for an 2 years apprenticeship<br>🌱 I’m currently learning machine learning, generative AI, cloud computing and data visualization<br>
 
 
 ## 🌐 Socials:
