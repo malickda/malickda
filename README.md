@@ -1,5 +1,5 @@
 # 🤷‍♂️ About Me:
-🔭 I’m currently in my second year of engineering studies in the data science and AI program at ESIEE Paris<br>🤝 I’m looking for an 6 month internship<br>🌱 I’m currently learning machine learning, generative AI,and data visualization<br>
+🔭 Hello i am currently in my second year of engineering studies in computer program at ESIEE Paris<br>
 
 
 ## 🌐 Socials:
